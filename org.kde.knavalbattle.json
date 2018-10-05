@@ -10,7 +10,8 @@
         "--socket=x11",
         "--socket=wayland",
         "--share=network",
-        "--device=dri"
+        "--device=dri",
+        "--filesystem=xdg-config/kdeglobals:ro"
     ],
     "modules": [
         {
