@@ -20,20 +20,20 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.0/src/libkdegames-18.08.0.tar.xz",
-                    "sha256": "e0bca02674c5e961db17e8225affc689c437ab78eabcd620a1e38ee7b1d583ca"
-                } 
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
+                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
+                }
             ]
         },
         {
             "name": "openal",
             "buildsystem": "cmake-ninja",
             "sources": [ 
-                    { 
+                    {
                         "type": "archive", 
-                        "url": "https://github.com/kcat/openal-soft/archive/openal-soft-1.18.2.tar.gz", 
-                        "sha256": "a598241d1af2e90c25a1b91da4c9ddc0e7cb6a4b5f1477fc680d139c57cd38cc" 
-                    } 
+                        "url": "https://github.com/kcat/openal-soft/archive/openal-soft-1.18.2.tar.gz",
+                        "sha256": "a598241d1af2e90c25a1b91da4c9ddc0e7cb6a4b5f1477fc680d139c57cd38cc"
+                    }
                 ]
         },
         {
@@ -42,8 +42,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.0/src/knavalbattle-18.08.0.tar.xz",
-                    "sha256": "189d5c9337f4b37a658955e26b0d018067084c6135f56c9476ca6b88f1f8412c"
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/knavalbattle-18.12.0.tar.xz",
+                    "sha256": "f38d22bec6df1628aa87cea8a4a4ca96f4af900735d62471444d3462a1c0649b"
                 } 
             ]
         }
