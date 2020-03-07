@@ -20,8 +20,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/19.12.2/src/libkdegames-19.12.2.tar.xz",
-                    "sha256": "270b20c902dda233f9b28f67eca582d810693d715ce768da6082bfa375248172"
+                    "url": "https://download.kde.org/stable/release-service/19.12.3/src/libkdegames-19.12.3.tar.xz",
+                    "sha256": "39cf5039b7fe11688028df026252c9cd4424546817b5bb635af2558f71ba6b20"
                 }
             ]
         },
@@ -31,8 +31,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/19.12.2/src/knavalbattle-19.12.2.tar.xz",
-                    "sha256": "6b36acd1469143a3a0a8272d88cc06b7122ee5ae0c0e107963b16c1cb01a21c2"
+                    "url": "https://download.kde.org/stable/release-service/19.12.3/src/knavalbattle-19.12.3.tar.xz",
+                    "sha256": "59875e10b0f2b06c2d3165f2f2457113f04550215947c8296ce1dcaf385ee37f"
                 }
             ]
         }
