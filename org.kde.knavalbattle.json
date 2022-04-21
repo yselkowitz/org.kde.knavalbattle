@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/knavalbattle-21.12.3.tar.xz",
-                    "sha256": "1f09464367293e02192e62b5474663bb11f1c1269e2bc98e3acba83fd009f2d6",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/knavalbattle-22.04.0.tar.xz",
+                    "sha256": "8918ccf8703fe78e979b9b6d118b3b0cad837dd744124ecc64539fadb7acafc1",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
